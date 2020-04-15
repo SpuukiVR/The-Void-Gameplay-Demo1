@@ -1,0 +1,2 @@
+# The-Void-Gameplay-Demo1
+The Void is a unique movement-based VR game. The player can create explosions at each of their hands to push themselves toward the platform in order to stop the timer. The player must avoid hitting any walls, obstacles, or being consumed by the void. I hope you enjoy playing the game and if you have any comments, suggestions, or criticisms, I'd really appreciate an email to abyssalentertainment1@gmail.com
